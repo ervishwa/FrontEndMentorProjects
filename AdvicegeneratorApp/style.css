@@ -1,0 +1,41 @@
+body{
+    display: grid;
+    place-items: center;
+    position: relative;
+    top: 222px;
+    background-color:hsl(218, 23%, 16%);
+}
+.Advice_Box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width: 30vw;
+    height: 38vh;
+    gap: 40px;
+    background-color:hsl(217, 19%, 24%);
+    color: white;
+    font-weight: 800;
+    padding: 27px;
+    border-radius: 23px;
+}
+.AdviceNumber{
+    margin-left: 3px;
+}
+
+.Pattern_Mobile{
+    display: none;
+}
+ .Pattern_Desktop{
+    display: none;
+} 
+p{
+    color: hsl(150, 100%, 66%);
+    
+}
+.DiceIcon{
+    position: absolute;
+    bottom: -13px;
+    background-color: hsl(150, 100%, 66%);
+    width: 24px;
+}
