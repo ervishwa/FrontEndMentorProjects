@@ -27,7 +27,7 @@ body{
     display: none;
 }
  .Pattern_Desktop{
-    display: none;
+    display: inline;
 } 
 p{
     color: hsl(150, 100%, 66%);
